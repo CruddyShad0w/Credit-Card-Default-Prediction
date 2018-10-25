@@ -16,5 +16,5 @@ Course: Cst - 463
 
 Submission Date: 10/24/2018
 
-| [<img src="https://avatars3.githubusercontent.com/u/38229188?s=460&v=4" width="100px;"/><br /><sub><b>Kyle Hays</b></sub>](https://github.com/tterb)<br /> |  [<img src="https://avatars2.githubusercontent.com/u/17794071?s=400&v=4" width="100px;"/><br /><sub><b>Donald Dong</b></sub>](https://github.com/alpacaxander)<br /> | [<img src="https://avatars2.githubusercontent.com/u/16927233?s=400&v=4" width="100px;"/><br /><sub><b>Kellen Rice</b></sub>](https://github.com/CruddyShad0w)<br /> |
+| [<img src="https://avatars3.githubusercontent.com/u/38229188?s=460&v=4" width="100px;"/><br /><sub><b>Kyle Hays</b></sub>](https://github.com/CruddyShad0w)<br /> |  [<img src="https://avatars2.githubusercontent.com/u/17794071?s=400&v=4" width="100px;"/><br /><sub><b>Donald Dong</b></sub>](https://github.com/donaldong)<br /> | [<img src="https://avatars2.githubusercontent.com/u/16927233?s=400&v=4" width="100px;"/><br /><sub><b>Kellen Rice</b></sub>](https://github.com/thekeldog)<br /> |
 |:----:|:----:|:----:|
